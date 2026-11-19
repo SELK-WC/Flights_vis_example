@@ -1,6 +1,6 @@
 # Flights_vis_example
 
-#Alaska delays by airport
+# Alaska delays by airport
 <iframe
   src="Alaska_destinations_delays.html"
   width="100%"
