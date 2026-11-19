@@ -8,7 +8,7 @@
   frameborder="0">
 </iframe>
 
-# 
+# Alaska flight paths
 <iframe
   src="Alaska_destinations_traces.html"
   width="100%"
